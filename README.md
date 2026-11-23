@@ -18,6 +18,10 @@ A desktop shopping and inventory management application built with **Java Swing*
 | <img src="docs/screenshots/product_management.png" alt="Product management" /> | <img src="docs/screenshots/shop_and_cart.png" alt="Shop and cart" /> |
 | **Order management (admin)** | **Sign in** |
 | <img src="docs/screenshots/order_management.png" alt="Order management" /> | <img src="docs/screenshots/login.png" width="60%" alt="Login" /> |
+| **Customer management (admin)** | **My orders (customer)** |
+| <img src="docs/screenshots/customer_management.png" alt="Customer management" /> | <img src="docs/screenshots/my_orders.png" alt="Customer order history" /> |
+| **Create account** | |
+| <img src="docs/screenshots/register.png" width="60%" alt="Registration form" /> | |
 
 ## Features
 
